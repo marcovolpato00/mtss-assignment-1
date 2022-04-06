@@ -8,3 +8,5 @@ Elettronica Padovana
 
 ## componenti
 ## periferiche
+
+- [tastiere](tastiere.md)
