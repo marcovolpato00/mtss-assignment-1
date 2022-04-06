@@ -5,3 +5,4 @@
 - [schede madri](schede_madri.md)
 
 Elettronica Padovana
+## periferiche
