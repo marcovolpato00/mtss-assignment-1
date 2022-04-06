@@ -7,3 +7,4 @@
 Elettronica Padovana
 
 ## componenti
+## periferiche
